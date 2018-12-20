@@ -1,11 +1,12 @@
 {
-  "name": "NoBit",
+  "name": "NOBit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://toby2nice.github.io/",
+  "homepage": "https://toby2nice.github.io/NoBit",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d NoBit "
   },
   "repository": {
     "type": "git",
