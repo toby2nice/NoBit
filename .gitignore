@@ -1,6 +1,7 @@
+*.jpg
 
 *.JPEG
-
+node_modules
 \webfonts
 
 fontawesome.min.css

@@ -1,0 +1,24 @@
+{
+  "name": "NoBit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://toby2nice.github.io/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toby2nice/NoBit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toby2nice/NoBit/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "jquery": "^3.3.1"
+  }
+}
